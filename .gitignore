@@ -1,6 +1,7 @@
 # Ignore Virtual Environment (The cause of your fatal error)
 venv/
 env/
+*.env
 .env
 
 # Ignore Python cache
