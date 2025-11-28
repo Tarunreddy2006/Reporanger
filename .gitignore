@@ -1,0 +1,15 @@
+# Ignore Virtual Environment (The cause of your fatal error)
+venv/
+env/
+.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore the Agent's downloaded repos (The cause of your warnings)
+cloned_repo*/
+repo_context*.txt
+
+# Ignore Docker/System files
+.DS_Store
