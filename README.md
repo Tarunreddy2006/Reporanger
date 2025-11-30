@@ -7,7 +7,7 @@
 ---
 
 ## 📺 Project Demo
-[![Watch the Demo](https://youtu.be/VLJZkNAol-A).
+[![Watch the Demo](https://img.youtube.com/vi/PASTE_YOUR_YOUTUBE_LINK_HERE/0.jpg)](https://youtu.be/VLJZkNAol-A).
 
 *(Click the image above to watch the walkthrough)*
 
